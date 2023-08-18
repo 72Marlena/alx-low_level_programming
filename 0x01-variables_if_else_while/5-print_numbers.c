@@ -13,7 +13,7 @@ int main(void)
 	int i = 10;
 
 	for (n = 0 ; n < i ; n++)
-		printf("Single digit %d", n);
+		printf("%d", n);
 	printf("\n");
 
 	return (0);
