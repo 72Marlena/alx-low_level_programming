@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints out all the numbers between 00 and 99
- * 
+ *
  * Return: 0
  */
 int main(void)
